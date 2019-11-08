@@ -13,5 +13,6 @@ public class Main {
         for(int i=0; i<N;i++) {
             System.out.print("MUD GOLEM PUNCHED UR ASS FOR "+N*30+" DAMAGE");
         }
+        System.out.print("GOLEM CRIES ON RUSSIAN 'МАГМА ТЕЧЕТ В НАШИХ ВЕНАХ, РАСКАЛЯЯ СЕРДЦА! БЕЗГРАНИЧНОЕ СЛИЯНИЕ! ГУРРРРРРЕН ЛАГГАААААААН!!!!!!!! ВЕДЬ Я. ВЕДЬ МЫ. ДА ЗА КОГО ВЫ НАС ДЕРЖИТЕ' ");
     }
 }
