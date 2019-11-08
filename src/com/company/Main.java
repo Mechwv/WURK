@@ -10,5 +10,8 @@ public class Main {
         }
         System.out.print("GOLEM CRIES 'HOES MAD' ");
         System.out.print("GOLEM iINFLICTED YOU 9000+ DAMAGE");
+        for(int i=0; i<N;i++) {
+            System.out.print("MUD GOLEM PUNCHED UR ASS FOR "+N*30+" DAMAGE");
+        }
     }
 }
